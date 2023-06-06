@@ -4,5 +4,5 @@ export interface Image {
 	width: number;
 	height: number;
 	url: string;
-	consload_url: string;
+	download_url: string;
 }
